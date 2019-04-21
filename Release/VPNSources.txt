@@ -1,0 +1,21 @@
+1-6 : https://www.vpnbook.com
+1 - France - optimized for fast web surfing; no p2p downloading - No Logs
+2 - Poland - No Logs
+3 - Germany - No Logs
+4 - United States - optimized for fast web surfing; no p2p downloading - No Logs
+5 - United States - optimized for fast web surfing; no p2p downloading - No Logs
+6 - Canada - optimized for fast web surfing; no p2p downloading - No Logs
+7 : https://www.freevpn.me
+7 - France - Torrents allowed - No Logs
+8 : https://freevpn.co.uk
+8 - Germany - Torrents allowed - No Logs
+9 : https://freevpn.se
+9 - France- Torrents allowed - No Logs
+10 : https://freevpn.im
+10 - France- Torrents allowed - No Logs
+11 : https://freevpn.it
+11 - France- Torrents allowed - No Logs
+12 : https://freevpn.be
+12 - Poland- Torrents allowed - No Logs
+13 : https://freevpn.eu
+13 - Amsterdam - Torrents allowed - No Logs

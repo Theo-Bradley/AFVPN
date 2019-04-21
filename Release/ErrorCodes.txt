@@ -1,0 +1,4 @@
+0x00 = No Hostname line found in CFG file.
+0x01 = No Username line found in CFG file.
+0x02 = No Password line found in CFG file.
+0x03 = No VPN folder.
